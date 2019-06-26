@@ -19,7 +19,7 @@ Page {
   flex-flow: column;
   justify-content: center;
   text-align: center;
-  color: #c0c0c0;
+  color: #290b0b57;
   font-size: 14px;
 }
 
@@ -36,7 +36,7 @@ Page {
   position: fixed;
   left: 0;
   right: 0;
-  background: #F6F6F6;
+  background: rgb(193, 219, 191);
   height: 40px;
   line-height: 40px;
   box-sizing: border-box;
